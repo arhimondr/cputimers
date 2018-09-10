@@ -1,2 +1,3 @@
 # cputimers
-> make test
+
+`#> make test`
